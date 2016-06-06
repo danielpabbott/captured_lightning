@@ -1,12 +1,15 @@
-.page-header {
-  opacity: .5;
+body {
+  padding-top: 70px;
 }
-.jumbotron {
-  background-image: url('https://static.pexels.com/photos/29970/pexels-photo-29970.jpg');
-  background-size: cover;
-  background-position: center;
-  color: white;
+.landing {
+
 }
-h1, h3 {
-  margin-left: 10vw;
+/*.about {
+  display: none;
+}*/
+/*.options {
+  display: none;
+}*/
+.artist {
+  border-radius: 50%;
 }
